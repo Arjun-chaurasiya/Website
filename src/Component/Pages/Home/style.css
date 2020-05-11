@@ -1,0 +1,65 @@
+.quotes{
+    
+       background-color: #e9e9e9;
+    
+    
+}
+.backgroundcolor{
+    background-color: #e9e9e9;
+
+}
+.quotesandimage
+    {
+        font-family: Times, "Times New Roman", serif;
+        height: 185px;
+        line-height: 48px;
+        width: 308px;
+        text-align: center;
+        position: absolute;
+        left: 54px;
+        top: 90px;
+    }
+.box1{
+    display: flex;
+    padding: 10px;
+}
+.maincontainer{
+    
+
+        background-color: #e9e9e9;
+        border-bottom: 1px solid rgb(226, 214, 214);
+        padding-top: 15px;
+        border-bottom: 1px solid #fff;
+}
+#adbox{
+
+    background-color: #fff;
+    width: 100%;
+
+    border: 1px solid #fff;
+    position: relative;
+
+}
+.highlight {
+    background: #eee repeat-x left bottom;
+    border-bottom: 1px solid #fff;
+}
+.highlight .clearfix {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.clearfix{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:black ;
+}
+.homepageimage{
+    width: 10px !important;
+    max-width: 500px;
+}
+.quta{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+

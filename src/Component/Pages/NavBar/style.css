@@ -1,0 +1,24 @@
+.logo{
+	margin-left: 250px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.Navcolor{
+	background-color:#4e5944;
+}
+.Navcolor1{
+	background-color:#4e5944;
+	
+}
+.linkcolor{
+	color: aliceblue !important;
+	text-decoration: underline;
+	font: bold 13px/24px Times, "Times New Roman", serif;
+    text-decoration: none;
+    text-shadow: 1px 1px #000;
+    text-transform: uppercase;
+
+
+
+}
